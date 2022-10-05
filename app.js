@@ -42,11 +42,6 @@ function play(){
             alert("Error!")               //if something goes wrong
         }
     }
-    
-
-
-
-    
 }
 
 function playAgain(history){
